@@ -1,0 +1,19 @@
+id,category,product_name,quantity,unit_price
+FM0011,Fruit,Apples,54,$1.19 
+FM0012,Fruit,Bananas,44,$0.57 
+FM0013,Fruit,Oranges,28,$1.88 
+FM0014,Fruit,Grapes,22,$2.21 
+FM0015,Fruit,Mangoes,43,$2.25 
+FM0016,Fruit,Lemons,38,$1.00 
+FM0017,Vegetables,Lettuce,33,$1.80 
+FM0018,Vegetables,Broccoli,45,$1.84 
+FM0019,Vegetables,Onions,62,$0.47 
+FM0020,Vegetables,Tomatoes,52,$0.59 
+FM0021,Vegetables,Mushrooms,25,$3.47 
+FM0022,Vegetables,Potatoes,35,$0.32 
+FM0023,Nuts & Legumes,Cashews,15,$2.70 
+FM0024,Nuts & Legumes,Almonds,18,$8.10 
+FM0025,Nuts & Legumes,Walnuts,12,$2.25 
+FM0026,Nuts & Legumes,Lentils,16,$0.90 
+FM0027,Nuts & Legumes,Kidney Beans,13,$3.15 
+FM0028,Nuts & Legumes,Pumpkin Seeds,19,$1.80 

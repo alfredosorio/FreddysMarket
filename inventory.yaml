@@ -1,0 +1,31 @@
+---
+FM0011:
+  :category: Fruit
+  :product_name: Mangoes(ea)
+  :quantity: 23
+  :unit_price: "$1.19"
+FM0012:
+  :category: Fruit
+  :product_name: Bananas (ea)
+  :quantity: 83
+  :unit_price: "$0.57"
+FM0022:
+  :category: Vegetables
+  :product_name: Broccoli (ea)
+  :quantity: 96
+  :unit_price: "$1.84"
+FM0023:
+  :category: Vegetables
+  :product_name: Onions (ea)
+  :quantity: 64
+  :unit_price: "$0.51"
+FM0031:
+  :category: Nuts & Legumes
+  :product_name: Cashews (100g)
+  :quantity: 30
+  :unit_price: "$2.70"
+FM0032:
+  :category: Nuts & Legumes
+  :product_name: Almonds (1kg)
+  :quantity: 33
+  :unit_price: "$8.10"
